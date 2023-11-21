@@ -53,10 +53,7 @@ You can click the Preview link to take a look at your changes.
 | ------------- | ------------- |
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tafieda&" alt="tafieda" /></p>
 
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=tafeedah&hide=issues&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafieda&theme=gruvbox&layout=compact&langs_count=8&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 <!--Wakatime stats-->
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@tafieda&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@tafieda&show_icons=true&locale=en" />
   </a>
