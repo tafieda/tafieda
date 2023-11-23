@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/018bf196-765b-4229-8a14-cb2c875c8e26.svg)](https://wakatime.com/@018bf196-765b-4229-8a14-cb2c875c8e26)
+
 <!---
 - 👋 Hi, I’m @tafieda
 - 👀 I’m interested in ...
