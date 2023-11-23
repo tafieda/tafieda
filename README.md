@@ -1,5 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/018bf196-765b-4229-8a14-cb2c875c8e26.svg)](https://wakatime.com/@018bf196-765b-4229-8a14-cb2c875c8e26)
-
 <!---
 - 👋 Hi, I’m @tafieda
 - 👀 I’m interested in ...
@@ -13,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Khalil Jamil Ahmad</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-
+[![wakatime](https://wakatime.com/badge/user/018bf196-765b-4229-8a14-cb2c875c8e26.svg)](https://wakatime.com/@018bf196-765b-4229-8a14-cb2c875c8e26)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tafieda&label=Profile%20views&color=0e75b6&style=flat" alt="tafieda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tafieda" alt="tafieda" /></a> </p>
