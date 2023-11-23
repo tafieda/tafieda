@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <a href="https://github.com/tafieda/Publica">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tafieda&repo=weather-app&theme=gruvbox&show_owner=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tafieda&repo=Publica&theme=gruvbox&show_owner=true&hide_border=true" />
 </a>
 <a href="https://github.com/tafieda/Ramadan-Blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tafieda&repo=Ramadan-Blog&theme=gruvbox&show_owner=true&hide_border=true" />
