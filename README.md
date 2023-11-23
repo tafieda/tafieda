@@ -61,3 +61,13 @@ You can click the Preview link to take a look at your changes.
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@tafieda&show_icons=true&locale=en" />
   </p>
+
+#### Top Repositories
+
+
+<a href="https://github.com/tafeedah/weather-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tafieda&repo=weather-app&theme=gruvbox&show_owner=true&hide_border=true" />
+</a>
+<a href="https://github.com/tafeedah/Ramadan-Blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tafieda&repo=Ramadan-Blog&theme=gruvbox&show_owner=true&hide_border=true" />
+</a>
