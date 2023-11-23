@@ -57,5 +57,5 @@ You can click the Preview link to take a look at your changes.
 
 <!--Wakatime stats-->
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@tafieda&show_icons=true&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Tafieda&show_icons=true&locale=en" />
   </p>
