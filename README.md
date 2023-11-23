@@ -68,6 +68,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/tafieda/Publica">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tafieda&repo=Publica&show_owner=true&hide_border=true" />
 </a>
-<a href="https://github.com/tafieda/Ramadan-Blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tafieda&repo=Ramadan-Blog&show_owner=true&hide_border=true" />
+<a href="https://github.com/tafeedah/Ramadan-Blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tafeedah&repo=Ramadan-Blog&show_owner=true&hide_border=true" />
 </a>
