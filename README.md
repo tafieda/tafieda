@@ -72,6 +72,4 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tafeedah&repo=Ramadan-Blog&show_owner=true&hide_border=true" />
 </a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sagelga&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
-
 ![LeetCode Stats](https://leetcode.card.workers.dev/sagelga?theme=auto&font=&extension=activity)
