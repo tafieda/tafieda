@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Cybersecurity**
 
-- 👯 I’m looking to collaborate on [Portfolio Website](https://github.com/tafieda)
+- 👯 I’m looking to collaborate on [Portfolio Website](https://github.com/tafieda/Portfolio)
 
 - 🤝 I’m looking for help with [Resume Webpage](https://github.com/tafieda)
 
