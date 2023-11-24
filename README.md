@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📝 I regularly write articles on [publica.com.ng](publica.com.ng)
 
-- 💬 Ask me about **anything** **[here]**(https://github.com/tafieda/tafieda/issues)
+- 💬 Ask me about **anything** [**here**](https://github.com/tafieda/tafieda/issues)
 
 - 📫 How to reach me **khaliljamil12@aol.com**
 
