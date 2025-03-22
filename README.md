@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/ak_yakasai95" target="blank"><img src="https://img.shields.io/twitter/follow/ak_yakasai95?logo=twitter&style=for-the-badge" alt="ak_yakasai95" /></a> </p>
 
-- 🔭 I’m currently working on [Publica](https://github.com/tafieda/Publica)
+- 🔭 I’m currently working on [Tafsir Player](https://github.com/tafieda/tafsir-player)
 
 - 🌱 I’m currently learning **Cybersecurity**
 
