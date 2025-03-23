@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Khalil Jamil Ahmad</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-<a href="https://wakatime.com/@0a491d80-f597-4276-a7d3-e41ed4e0dea4"><img src="https://wakatime.com/badge/user/018bf196-765b-4229-8a14-cb2c875c8e26.svg" alt="Total time coded since Nov 21 2023" /></a>
+<a href="https://wakatime.com/@018bf196-765b-4229-8a14-cb2c875c8e26"><img src="https://wakatime.com/badge/user/018bf196-765b-4229-8a14-cb2c875c8e26.svg" alt="Total time coded since Nov 21 2023" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tafieda&label=Profile%20views&color=0e75b6&style=flat" alt="tafieda" /> </p>
 
